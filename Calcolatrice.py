@@ -1,8 +1,9 @@
+#Langellotti Alessio, Pymike
 import math
 while True:
     print('''
     Benvenuto al programma calcolatrice!
-    Creata da Lange
+    Creata da Lange;
     Di seguito un elenco delle varie funzioni disponibili:
 
     -Per effettuare un'Addizione, seleziona 1;
