@@ -1,2 +1,2 @@
 # Calcolatrice
-created by Alessio Langellotti with python, inspired by PyMike
+created by Alessio Langellotti with python, inspired by pymike00
